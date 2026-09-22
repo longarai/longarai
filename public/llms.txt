@@ -1,0 +1,37 @@
+# Gabriel Longarai — Consultoria em Dados, IA & Automações
+
+> Consultor independente de engenharia de dados, BI e inteligência artificial. 15+ anos de experiência (BI desde 2011), certificação SnowPro Associate: Platform (Snowflake). Atendimento remoto para todo o Brasil, a partir de Porto Alegre/RS. Diagnóstico gratuito com resposta em até 24h.
+
+## Serviços
+
+- Consultoria Snowflake: implementação, otimização de performance e custos, Dynamic Tables, arquitetura de data lake
+- Pipelines de dados com dbt + Airflow: modelagem, orquestração e transformação confiável
+- Integração com marketplaces via APIs oficiais: Mercado Livre, Shopee, Amazon (SP-API), TikTok Shop, Nuvemshop, Dafiti
+- Integração com ERPs e sistemas: Totvs, Linx, Bling, Tiny, Omie, Conta Azul, Pipedrive e outros 14+ sistemas
+- Agentes de IA sobre dados (Snowflake Cortex Analyst, Semantic Views): perguntas em português respondidas sobre o data warehouse
+- Machine learning preditivo: score de propensão, previsão de venda, lead scoring
+- Automação de processos com n8n e Python; transcrição/resumo de reuniões inclusive on-premise
+- Dashboards em Power BI conectados ao data warehouse
+- Mentoria individual em Engenharia de Dados
+
+## Resultados comprovados (projetos reais)
+
+- Migração de BI legado QlikView → Snowflake em rede farmacêutica: 17 painéis, 98 tabelas, 1.229 métricas
+- Migração de conta Snowflake com 161 milhões de linhas em ~4 horas, validada por hash
+- Plataforma de integração com 76 endpoints em 7 marketplaces e ERPs
+- Modelos de ML com ROC-AUC 0,84–0,90 para ranqueamento no Mercado Livre
+- Lead scoring sobre 5,9 milhões de CNPJs (AUC-ROC 0,8968)
+- Otimização de consulta de precificação de 11 segundos para 3 milissegundos
+- Estudo de precificação que mapeou ~R$ 4 milhões imobilizados em estoque parado
+
+## Contato
+
+- WhatsApp: +55 51 99696-1726 (diagnóstico gratuito, sem compromisso)
+- E-mail: gslongarai@gmail.com
+- LinkedIn: https://www.linkedin.com/in/gabriellongarai/
+- Site: https://www.longarai.com.br/
+
+## Links
+
+- [Home](https://www.longarai.com.br/): serviços, projetos, stack e contato
+- [Blog](https://www.longarai.com.br/blog): artigos sobre engenharia de dados, BI e analytics
